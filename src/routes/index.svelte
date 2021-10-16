@@ -17,7 +17,7 @@ $: {
 fetchPokemon();
 </script>
 <svelte:head>
-	<title>Pokedexxxx</title>
+	<title>Pokede</title>
 </svelte:head>
 
 <h1 class="text-4xl text-center my-8 uppercase">SvelteKit Pokedex</h1>
